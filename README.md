@@ -23,8 +23,7 @@ This project measures distance using an ultrasonic sensor and displays the resul
 Ultrasonic sensor sends sound waves and measures echo time to calculate distance.
 
 ## 📷 Output
-(Add your project image here)
-
+distance-meter-arduino.jpeg
 ## 💡 Applications
 - Car parking sensors
 - Obstacle detection
